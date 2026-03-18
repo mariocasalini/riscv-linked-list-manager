@@ -1,4 +1,4 @@
-# ⚙️ RISC-V Assembly: Custom Memory Allocator & Linked List Manager
+# RISC-V Assembly: Custom Memory Allocator & Linked List Manager
 
 Progetto per il corso di **Architetture degli Elaboratori** (A.A. 2024/2025). 
 
@@ -8,7 +8,7 @@ Questo progetto consiste nell'implementazione da zero di una lista concatenata i
 
 ---
 
-## 🚀 Competenze Tecniche Evidenziate
+## Competenze Tecniche Evidenziate
 
 L'obiettivo di questo progetto non è solo gestire una lista, ma dimostrare una profonda padronanza dell'architettura RISC-V, delle convenzioni di chiamata e della manipolazione della memoria a basso livello.
 
@@ -32,7 +32,7 @@ Il programma riceve una stringa raw (es. `ADD(a)~DEL(b)~PRINT`) e implementa un 
 
 ---
 
-## 🛠️ Funzionalità Implementate
+## Funzionalità Implementate
 
 Il parser riconosce ed esegue i seguenti comandi (fino a un massimo di 30 operazioni per run, causa limite di pool memory pre-impostato a 150 byte):
 
@@ -44,7 +44,7 @@ Il parser riconosce ed esegue i seguenti comandi (fino a un massimo di 30 operaz
 
 ---
 
-## 💻 Come eseguire il codice
+## Come eseguire il codice
 
 Il codice è scritto per essere eseguito su simulatori RISC-V standard come **RARS** o **RIPES**.
 
